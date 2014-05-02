@@ -1,9 +1,12 @@
-training
+Training
 ========
 
 This repository is for KCI training purposes only.
 
+Checklist:
+----------
 
-
-
-I have to get something done.
+- [ ] merging
+- [ ] set upstream remote
+- [ ] fetching
+- [ ] nicer looking logs
