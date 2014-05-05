@@ -1,8 +1,9 @@
 $answer = 0 
 
-For $i = 1 To 999 Step 1 
-	if ( Mod($i,3) = 0 Or Mod($i,5) = 0) Then 
-		$answer += $i 
+
+For $loopindex = 1 To 999 Step 1 
+	if ( Mod($loopindex,3) = 0 Or Mod($loopindex,5) = 0) Then 
+		$answer += $loopindex
 	EndIf
 Next 
 
