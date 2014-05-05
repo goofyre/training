@@ -9,6 +9,7 @@
 ;~
 ;~ Method 1:
 ;~ We will iterate through each number from 1 to 1000 (but not including 1000), checking to see if each number is divisable by 3 or 5. when we find a number that is divisable by three or five we will add that number to the sum.
+;~ Document New Feature
 
 $answer = 0 ; Begin with Answer at 0
 
