@@ -6,9 +6,9 @@ This repository is for KCI training purposes only.
 Checklist:
 ----------
 
-- [ ] set upstream remote
-- [ ] fetching
-- [ ] pull into new branch
+- [x] set upstream remote
+- [x] fetching
+- [x] pull into new branch
 - [ ] merge into working branch
 - [ ] push back to origin for a cleanly merging pull request
 
